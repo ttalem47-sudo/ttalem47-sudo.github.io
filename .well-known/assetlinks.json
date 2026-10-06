@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.b24.portal",
+        "sha256_cert_fingerprints": ["5F:6A:C2:6E:53:FC:18:E7:B8:C0:28:01:2E:A2:A0:AC:76:12:8E:61:27:A6:25:63:EB:9A:AD:74:2E:42:25:E0"]
+      }
+    }]
